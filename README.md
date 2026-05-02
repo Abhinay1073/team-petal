@@ -75,7 +75,7 @@ The **Team Task Manager** is a full-stack web application that allows teams to e
 
 ## 🌐 Live Demo
 
-👉 Add your deployed link here (Netlify / Vercel / Render)
+👉 Add your deployed link here (https://teamtaskmanagershttpsteamtaskmanagers.lovable.app/auth)
 
 ---
 
